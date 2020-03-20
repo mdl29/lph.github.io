@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 {% if site.show_excerpts %}
-  {% include home.md %}
+  {% include home.html %}
 {% else %}
-  {% include archive.md title="Posts" %}
+  {% include archive.html title="Posts" %}
 {% endif %}
