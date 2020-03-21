@@ -1,5 +1,5 @@
 # Les Petits Hackers
-
+![Getting Started](./images/logo.png)
 ## C'est quoi ?
 
 Les Petits Hackers: animation et découverte sur les facettes de l’électronique et de l'informatique
